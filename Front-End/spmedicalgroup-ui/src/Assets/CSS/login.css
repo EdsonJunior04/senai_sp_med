@@ -1,0 +1,74 @@
+.fundo_login{
+    background-image: url('../img/Fundofundo_cadastro.png');
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover  ;
+    
+}
+
+.center-login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.btn_login{
+    height: 6vh;
+    margin-top: 4vw;
+    width: 20vw;
+    border-radius: 20vw;
+    font-size: 1vw;
+    color: white;
+    background-color: #3D8DF2;
+    border: none;
+}
+
+.icone__login{
+    margin-top: 9vw;
+}
+
+.input_login {
+    border: 0;
+    width: 23vw;
+    border-bottom: 1px solid #e6e6e6;
+    text-align: center;
+    padding: 10px;
+    background: transparent;
+    color: white;
+    text-align: left;
+    margin-top: 3vw;
+  }
+  
+  .input_login::placeholder{
+      color: white;
+  }
+
+  .input_login:hover,
+  .input_login:focus {
+    border: 0;
+    border-bottom: 1px solid #3D8DF2;
+    text-align: center;
+    background: transparent;
+    color: white;
+    text-align: left;
+  }
+  .cadastrar{
+      text-decoration: none;
+      color: #3D8DF2;
+      font-size: 2vh;
+  }
+  .cadastrar:hover{
+      color: white;
+  }
+  .cadastre{
+      padding-top: 10vh;
+      color: white;
+      font-size: 2vh;
+  }
+
+  .erroMensagem{
+      font-size: 1vw;
+      margin-top: 2vw;
+  }

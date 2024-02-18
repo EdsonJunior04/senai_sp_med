@@ -1,0 +1,43 @@
+.container_perfil {
+    width: 94%;
+    margin: 0 auto;
+  }
+
+  .imagem_header{
+    margin-right: 20px;
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+  }
+  p{
+    margin-left: 130px;
+    color: white;
+    text-decoration: none;
+  }
+
+  #conteudoPrincipal-lista {
+    /* background-color: #ffffff; */
+    min-height: 100px;
+    text-align: center;
+  }
+  .conteudoPrincipal-cadastro-titulo {
+    text-align: center;
+    font-size: 18px;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-weight: 300;
+  }
+  
+  .conteudoPrincipal-cadastro-titulo::after {
+    background: #6f47ff;
+    content: "";
+    display: block;
+    height: 3px;
+    position: absolute;
+    margin-top: 15px;
+    width: 3%;
+    transform: translateX(-50%);
+    left: 50%;
+  }

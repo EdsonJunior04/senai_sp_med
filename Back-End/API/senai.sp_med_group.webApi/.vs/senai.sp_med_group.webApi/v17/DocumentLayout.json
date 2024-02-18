@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\SENAI 2023\\3SM\\Projeto-SP-Med.-Group\\Back-End\\API\\senai.sp_med_group.webApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B808FAC2-69EB-4A34-86CF-BCBFD9A1F063}|senai.sp_med_group.webApi\\senai.sp_med_group.webApi.csproj|g:\\senai 2023\\3sm\\projeto-sp-med.-group\\back-end\\api\\senai.sp_med_group.webapi\\senai.sp_med_group.webapi\\controllers\\consultascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B808FAC2-69EB-4A34-86CF-BCBFD9A1F063}|senai.sp_med_group.webApi\\senai.sp_med_group.webApi.csproj|solutionrelative:senai.sp_med_group.webapi\\controllers\\consultascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B808FAC2-69EB-4A34-86CF-BCBFD9A1F063}|senai.sp_med_group.webApi\\senai.sp_med_group.webApi.csproj|g:\\senai 2023\\3sm\\projeto-sp-med.-group\\back-end\\api\\senai.sp_med_group.webapi\\senai.sp_med_group.webapi\\controllers\\perfilscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B808FAC2-69EB-4A34-86CF-BCBFD9A1F063}|senai.sp_med_group.webApi\\senai.sp_med_group.webApi.csproj|solutionrelative:senai.sp_med_group.webapi\\controllers\\perfilscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B808FAC2-69EB-4A34-86CF-BCBFD9A1F063}|senai.sp_med_group.webApi\\senai.sp_med_group.webApi.csproj|g:\\senai 2023\\3sm\\projeto-sp-med.-group\\back-end\\api\\senai.sp_med_group.webapi\\senai.sp_med_group.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B808FAC2-69EB-4A34-86CF-BCBFD9A1F063}|senai.sp_med_group.webApi\\senai.sp_med_group.webApi.csproj|solutionrelative:senai.sp_med_group.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B808FAC2-69EB-4A34-86CF-BCBFD9A1F063}|senai.sp_med_group.webApi\\senai.sp_med_group.webApi.csproj|g:\\senai 2023\\3sm\\projeto-sp-med.-group\\back-end\\api\\senai.sp_med_group.webapi\\senai.sp_med_group.webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B808FAC2-69EB-4A34-86CF-BCBFD9A1F063}|senai.sp_med_group.webApi\\senai.sp_med_group.webApi.csproj|solutionrelative:senai.sp_med_group.webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B808FAC2-69EB-4A34-86CF-BCBFD9A1F063}|senai.sp_med_group.webApi\\senai.sp_med_group.webApi.csproj|g:\\senai 2023\\3sm\\projeto-sp-med.-group\\back-end\\api\\senai.sp_med_group.webapi\\senai.sp_med_group.webapi\\context\\spmedcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B808FAC2-69EB-4A34-86CF-BCBFD9A1F063}|senai.sp_med_group.webApi\\senai.sp_med_group.webApi.csproj|solutionrelative:senai.sp_med_group.webapi\\context\\spmedcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B808FAC2-69EB-4A34-86CF-BCBFD9A1F063}|senai.sp_med_group.webApi\\senai.sp_med_group.webApi.csproj|g:\\senai 2023\\3sm\\projeto-sp-med.-group\\back-end\\api\\senai.sp_med_group.webapi\\senai.sp_med_group.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B808FAC2-69EB-4A34-86CF-BCBFD9A1F063}|senai.sp_med_group.webApi\\senai.sp_med_group.webApi.csproj|solutionrelative:senai.sp_med_group.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B808FAC2-69EB-4A34-86CF-BCBFD9A1F063}|senai.sp_med_group.webApi\\senai.sp_med_group.webApi.csproj|g:\\senai 2023\\3sm\\projeto-sp-med.-group\\back-end\\api\\senai.sp_med_group.webapi\\senai.sp_med_group.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B808FAC2-69EB-4A34-86CF-BCBFD9A1F063}|senai.sp_med_group.webApi\\senai.sp_med_group.webApi.csproj|solutionrelative:senai.sp_med_group.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B808FAC2-69EB-4A34-86CF-BCBFD9A1F063}|senai.sp_med_group.webApi\\senai.sp_med_group.webApi.csproj|g:\\senai 2023\\3sm\\projeto-sp-med.-group\\back-end\\api\\senai.sp_med_group.webapi\\senai.sp_med_group.webapi\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B808FAC2-69EB-4A34-86CF-BCBFD9A1F063}|senai.sp_med_group.webApi\\senai.sp_med_group.webApi.csproj|solutionrelative:senai.sp_med_group.webapi\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B808FAC2-69EB-4A34-86CF-BCBFD9A1F063}|senai.sp_med_group.webApi\\senai.sp_med_group.webApi.csproj|g:\\senai 2023\\3sm\\projeto-sp-med.-group\\back-end\\api\\senai.sp_med_group.webapi\\senai.sp_med_group.webapi\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B808FAC2-69EB-4A34-86CF-BCBFD9A1F063}|senai.sp_med_group.webApi\\senai.sp_med_group.webApi.csproj|solutionrelative:senai.sp_med_group.webapi\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B808FAC2-69EB-4A34-86CF-BCBFD9A1F063}|senai.sp_med_group.webApi\\senai.sp_med_group.webApi.csproj|g:\\senai 2023\\3sm\\projeto-sp-med.-group\\back-end\\api\\senai.sp_med_group.webapi\\senai.sp_med_group.webapi\\domains\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B808FAC2-69EB-4A34-86CF-BCBFD9A1F063}|senai.sp_med_group.webApi\\senai.sp_med_group.webApi.csproj|solutionrelative:senai.sp_med_group.webapi\\domains\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B808FAC2-69EB-4A34-86CF-BCBFD9A1F063}|senai.sp_med_group.webApi\\senai.sp_med_group.webApi.csproj|g:\\senai 2023\\3sm\\projeto-sp-med.-group\\back-end\\api\\senai.sp_med_group.webapi\\senai.sp_med_group.webapi\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B808FAC2-69EB-4A34-86CF-BCBFD9A1F063}|senai.sp_med_group.webApi\\senai.sp_med_group.webApi.csproj|solutionrelative:senai.sp_med_group.webapi\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsultasController.cs",
+              "DocumentMoniker": "G:\\SENAI 2023\\3SM\\Projeto-SP-Med.-Group\\Back-End\\API\\senai.sp_med_group.webApi\\senai.sp_med_group.webApi\\Controllers\\ConsultasController.cs",
+              "RelativeDocumentMoniker": "senai.sp_med_group.webApi\\Controllers\\ConsultasController.cs",
+              "ToolTip": "G:\\SENAI 2023\\3SM\\Projeto-SP-Med.-Group\\Back-End\\API\\senai.sp_med_group.webApi\\senai.sp_med_group.webApi\\Controllers\\ConsultasController.cs",
+              "RelativeToolTip": "senai.sp_med_group.webApi\\Controllers\\ConsultasController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwFUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T15:18:22.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PerfilsControllers.cs",
+              "DocumentMoniker": "G:\\SENAI 2023\\3SM\\Projeto-SP-Med.-Group\\Back-End\\API\\senai.sp_med_group.webApi\\senai.sp_med_group.webApi\\Controllers\\PerfilsControllers.cs",
+              "RelativeDocumentMoniker": "senai.sp_med_group.webApi\\Controllers\\PerfilsControllers.cs",
+              "ToolTip": "G:\\SENAI 2023\\3SM\\Projeto-SP-Med.-Group\\Back-End\\API\\senai.sp_med_group.webApi\\senai.sp_med_group.webApi\\Controllers\\PerfilsControllers.cs",
+              "RelativeToolTip": "senai.sp_med_group.webApi\\Controllers\\PerfilsControllers.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAcwA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T14:28:45.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "G:\\SENAI 2023\\3SM\\Projeto-SP-Med.-Group\\Back-End\\API\\senai.sp_med_group.webApi\\senai.sp_med_group.webApi\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "senai.sp_med_group.webApi\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "G:\\SENAI 2023\\3SM\\Projeto-SP-Med.-Group\\Back-End\\API\\senai.sp_med_group.webApi\\senai.sp_med_group.webApi\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "senai.sp_med_group.webApi\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAABQwEYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T22:21:03.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "G:\\SENAI 2023\\3SM\\Projeto-SP-Med.-Group\\Back-End\\API\\senai.sp_med_group.webApi\\senai.sp_med_group.webApi\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "senai.sp_med_group.webApi\\Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "G:\\SENAI 2023\\3SM\\Projeto-SP-Med.-Group\\Back-End\\API\\senai.sp_med_group.webApi\\senai.sp_med_group.webApi\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeToolTip": "senai.sp_med_group.webApi\\Interfaces\\IUsuarioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T21:35:05.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "G:\\SENAI 2023\\3SM\\Projeto-SP-Med.-Group\\Back-End\\API\\senai.sp_med_group.webApi\\senai.sp_med_group.webApi\\Domains\\Usuario.cs",
+              "RelativeDocumentMoniker": "senai.sp_med_group.webApi\\Domains\\Usuario.cs",
+              "ToolTip": "G:\\SENAI 2023\\3SM\\Projeto-SP-Med.-Group\\Back-End\\API\\senai.sp_med_group.webApi\\senai.sp_med_group.webApi\\Domains\\Usuario.cs",
+              "RelativeToolTip": "senai.sp_med_group.webApi\\Domains\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T17:24:51.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "G:\\SENAI 2023\\3SM\\Projeto-SP-Med.-Group\\Back-End\\API\\senai.sp_med_group.webApi\\senai.sp_med_group.webApi\\ViewModel\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "senai.sp_med_group.webApi\\ViewModel\\LoginViewModel.cs",
+              "ToolTip": "G:\\SENAI 2023\\3SM\\Projeto-SP-Med.-Group\\Back-End\\API\\senai.sp_med_group.webApi\\senai.sp_med_group.webApi\\ViewModel\\LoginViewModel.cs",
+              "RelativeToolTip": "senai.sp_med_group.webApi\\ViewModel\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T17:24:35.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\SENAI 2023\\3SM\\Projeto-SP-Med.-Group\\Back-End\\API\\senai.sp_med_group.webApi\\senai.sp_med_group.webApi\\appsettings.json",
+              "RelativeDocumentMoniker": "senai.sp_med_group.webApi\\appsettings.json",
+              "ToolTip": "G:\\SENAI 2023\\3SM\\Projeto-SP-Med.-Group\\Back-End\\API\\senai.sp_med_group.webApi\\senai.sp_med_group.webApi\\appsettings.json",
+              "RelativeToolTip": "senai.sp_med_group.webApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-17T17:08:50.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "G:\\SENAI 2023\\3SM\\Projeto-SP-Med.-Group\\Back-End\\API\\senai.sp_med_group.webApi\\senai.sp_med_group.webApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "senai.sp_med_group.webApi\\appsettings.Development.json",
+              "ToolTip": "G:\\SENAI 2023\\3SM\\Projeto-SP-Med.-Group\\Back-End\\API\\senai.sp_med_group.webApi\\senai.sp_med_group.webApi\\appsettings.Development.json",
+              "RelativeToolTip": "senai.sp_med_group.webApi\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-17T17:08:47.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\SENAI 2023\\3SM\\Projeto-SP-Med.-Group\\Back-End\\API\\senai.sp_med_group.webApi\\senai.sp_med_group.webApi\\Program.cs",
+              "RelativeDocumentMoniker": "senai.sp_med_group.webApi\\Program.cs",
+              "ToolTip": "G:\\SENAI 2023\\3SM\\Projeto-SP-Med.-Group\\Back-End\\API\\senai.sp_med_group.webApi\\senai.sp_med_group.webApi\\Program.cs",
+              "RelativeToolTip": "senai.sp_med_group.webApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T15:34:36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpMedContext.cs",
+              "DocumentMoniker": "G:\\SENAI 2023\\3SM\\Projeto-SP-Med.-Group\\Back-End\\API\\senai.sp_med_group.webApi\\senai.sp_med_group.webApi\\Context\\SpMedContext.cs",
+              "RelativeDocumentMoniker": "senai.sp_med_group.webApi\\Context\\SpMedContext.cs",
+              "ToolTip": "G:\\SENAI 2023\\3SM\\Projeto-SP-Med.-Group\\Back-End\\API\\senai.sp_med_group.webApi\\senai.sp_med_group.webApi\\Context\\SpMedContext.cs",
+              "RelativeToolTip": "senai.sp_med_group.webApi\\Context\\SpMedContext.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowC8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T15:15:25.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "G:\\SENAI 2023\\3SM\\Projeto-SP-Med.-Group\\Back-End\\API\\senai.sp_med_group.webApi\\senai.sp_med_group.webApi\\Startup.cs",
+              "RelativeDocumentMoniker": "senai.sp_med_group.webApi\\Startup.cs",
+              "ToolTip": "G:\\SENAI 2023\\3SM\\Projeto-SP-Med.-Group\\Back-End\\API\\senai.sp_med_group.webApi\\senai.sp_med_group.webApi\\Startup.cs",
+              "RelativeToolTip": "senai.sp_med_group.webApi\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T15:15:25.736Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

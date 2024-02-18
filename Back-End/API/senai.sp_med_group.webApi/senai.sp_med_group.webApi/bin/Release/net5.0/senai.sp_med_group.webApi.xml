@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>senai.sp_med_group.webApi</name>
+    </assembly>
+    <members>
+        <member name="M:senai.sp_med_group.webApi.Controllers.ConsultasController.ListarTodos">
+            <summary>
+            Lista todas as consultas
+            </summary>
+        </member>
+        <member name="M:senai.sp_med_group.webApi.Controllers.ConsultasController.Cadastrar(senai.sp_med_group.webApi.Domains.Consultum)">
+            <summary>
+            Cadastra uma nova consulta
+            </summary>
+            <param name="novaConsulta"></param>
+            <returns></returns>
+        </member>
+        <member name="M:senai.sp_med_group.webApi.Controllers.ConsultasController.Cancelar(System.Int32)">
+            <summary>
+            Cancela uma consulta
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:senai.sp_med_group.webApi.Controllers.ConsultasController.ListarMinhas">
+            <summary>
+            Lista as consultas do usuário, sendo ele paciente ou médico
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:senai.sp_med_group.webApi.Controllers.ConsultasController.AlterarDescricao(senai.sp_med_group.webApi.Domains.Consultum,System.Int32)">
+            <summary>
+            Altera a descrição de uma consulta
+            </summary>
+            <param name="consultaAtualizada"></param>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:senai.sp_med_group.webApi.Controllers.ConsultasController.RemoverConsulta(System.Int32)">
+            <summary>
+            Remove uma consulta da aplicação
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:senai.sp_med_group.webApi.Controllers.InstituicoesController.Cadastrar(senai.sp_med_group.webApi.Domains.Instituicao)">
+            <summary>
+            Cadastra uma nova clínica
+            </summary>
+            <param name="novaClinica"></param>
+            <returns></returns>
+        </member>
+        <member name="M:senai.sp_med_group.webApi.Controllers.InstituicoesController.Listar">
+            <summary>
+            Lista todas as clínicas
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:senai.sp_med_group.webApi.Controllers.InstituicoesController.Atualizar(System.Int32,senai.sp_med_group.webApi.Domains.Instituicao)">
+            <summary>
+            Atualiza os dados de uma clínica
+            </summary>
+            <param name="id"></param>
+            <param name="clinicaAtualizada"></param>
+            <returns></returns>
+        </member>
+        <member name="M:senai.sp_med_group.webApi.Controllers.InstituicoesController.Deletar(System.Int32)">
+            <summary>
+            Deleta uma clínica da aplicação
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:senai.sp_med_group.webApi.Controllers.LoginController.Login(senai.sp_med_group.webApi.ViewModel.LoginViewModel)">
+            <summary>
+            Loga na aplicação
+            </summary>
+            <param name="Login"></param>
+            <returns></returns>
+        </member>
+        <member name="M:senai.sp_med_group.webApi.Controllers.MedicosController.Listar">
+            <summary>
+            Lista todos os médicos
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:senai.sp_med_group.webApi.Controllers.MedicosController.Cadastrar(senai.sp_med_group.webApi.Domains.Medico)">
+            <summary>
+            Cadastra um novo médico
+            </summary>
+            <param name="novoMedico"></param>
+            <returns></returns>
+        </member>
+        <member name="M:senai.sp_med_group.webApi.Controllers.PacientesController.Listar">
+            <summary>
+            Lista todos pacientes
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:senai.sp_med_group.webApi.Controllers.PacientesController.Cadastrar(senai.sp_med_group.webApi.Domains.Paciente)">
+            <summary>
+            Cadastra um novo paciente
+            </summary>
+            <param name="novoPaciente"></param>
+            <returns></returns>
+        </member>
+        <member name="M:senai.sp_med_group.webApi.Controllers.PacientesController.Atualizar(System.Int32,senai.sp_med_group.webApi.Domains.Paciente)">
+            <summary>
+            Atualiza os dados de um paciente
+            </summary>
+            <param name="id"></param>
+            <param name="attPaciente"></param>
+            <returns></returns>
+        </member>
+        <member name="M:senai.sp_med_group.webApi.Controllers.PacientesController.Deletar(System.Int32)">
+            <summary>
+            Deleta um paciente da aplicação
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:senai.sp_med_group.webApi.Controllers.PacientesController.BuscarPorId(System.Int32)">
+            <summary>
+            Busca um paciente pelo id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

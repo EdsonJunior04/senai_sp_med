@@ -1,0 +1,169 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+p{
+    color: white;    
+    text-transform: uppercase;
+    font-size: 30px;
+}
+
+.lista_medico{
+    box-shadow: -5px 4px 20px rgba(0, 0, 0, 0.7), 5px 4px 20px 2px rgba(0, 0, 0, 0.7);
+    background-color: #D5E1FA;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 25px;
+}
+
+.end{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #E1DCF5;
+}
+
+table{
+    width: 100%;
+}
+
+th{
+    height: 40px;    
+}
+
+td{
+    padding: 12px;
+    text-align: center;
+}
+
+.icone_medico{
+    margin-left: 100px;
+    width: 330px;
+}
+
+.realizar_btn {
+    border: none;
+    margin: 5px auto;
+    border-radius: 5px;
+    width: 60%;
+    margin-left: 5px;
+    padding: 8px 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 10px;    
+    background-color: #3D8DF2;
+    color: #fff;
+  }
+
+.container_header_medico{
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #E1DCF5;
+}
+
+/* .afastar_list_medico{
+     margin-top: 200px;
+} */
+
+.afastar{
+    margin-bottom: 70px;
+}
+
+.grid_medico {
+    width: 90%;
+    max-width: 1200px;
+
+    margin: 0 auto;
+}
+
+.cadastro_medico{
+    box-shadow: -5px 4px 20px rgba(0, 0, 0, 0.7), 5px 4px 20px 2px rgba(0, 0, 0, 0.7);
+    background-color: #D5E1FA;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 55px;
+    margin-top: 300px;
+}
+
+.input_alterar{
+    width: 500px;
+    margin-top: 80px;
+    border-radius: 10px;
+    height: 30px;
+    border-bottom: 1px solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.arru{
+    padding: 10px;
+}
+
+.cadastro_ajuste_medico{
+    margin-top: 30px;
+}
+
+.btn_cadastrar_medico{
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+
+.btn_medico{
+    height: 50px;
+    margin-top: 50px;
+    width: 350px;
+    border-radius: 20px;
+    font-size: 20px;
+    color: white;
+    background-color: #3D8DF2;
+    margin-bottom: inherit;
+    border: none;
+}
+.letra_tama{
+    margin-top: 20px;
+}
+.links_header {
+    width: 11%;
+    color: white;
+    margin-right: 100px;
+    text-transform: uppercase;
+    font-size: 20px;
+    line-height: 28px;
+    text-decoration:none ;
+}
+
+.container_footer {
+    height: 150px;
+    padding: 50px;
+    background-color: #E1DCF5;
+}
+.center_footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.icone_medico_footer{
+    margin: -6px;
+    width: 300px;
+}
+
+.span_footer{
+    color: white;
+    font-size: 15px;
+}
+
+.espaco{
+    margin-top: 50px;
+}

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="senai-spmedgp-webapi-tarde" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^E:\\HD\\SENAI-2ºT\\projetoSP\\Projeto_SP_Med\.Group\\API\\senai\.sp_med_group\.webApi\\senai\.sp_med_group\.webApi\\obj\\Release\\net5\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

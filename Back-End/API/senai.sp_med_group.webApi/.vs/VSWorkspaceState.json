@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\senai.sp_med_group.webApi",
+    "\\senai.sp_med_group.webApi\\Context",
+    "\\senai.sp_med_group.webApi\\Domains",
+    "\\senai.sp_med_group.webApi\\Interfaces",
+    "\\senai.sp_med_group.webApi\\Properties\\PublishProfiles",
+    "\\senai.sp_med_group.webApi\\Repositories",
+    "\\senai.sp_med_group.webApi\\ViewModel"
+  ],
+  "SelectedNode": "\\senai.sp_med_group.webApi\\Repositories\\UsuarioRepository.cs",
+  "PreviewInSolutionExplorer": false
+}

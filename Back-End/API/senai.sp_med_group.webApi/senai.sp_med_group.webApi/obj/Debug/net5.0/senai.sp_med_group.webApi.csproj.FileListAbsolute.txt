@@ -1,0 +1,811 @@
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\appsettings.Development.json
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\appsettings.json
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.exe
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.deps.json
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.runtimeconfig.json
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.runtimeconfig.dev.json
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\ref\senai.sp_med_group.webApi.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.pdb
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Humanizer.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.csproj.AssemblyReference.cache
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.AssemblyInfoInputs.cache
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.AssemblyInfo.cs
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.csproj.CoreCompileInputs.cache
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.MvcApplicationPartsAssemblyInfo.cs
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.MvcApplicationPartsAssemblyInfo.cache
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\staticwebassets\senai.sp_med_group.webApi.StaticWebAssets.Manifest.cache
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\staticwebassets\senai.sp_med_group.webApi.StaticWebAssets.xml
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\scopedcss\bundle\senai.sp_med_group.webApi.styles.css
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.RazorTargetAssemblyInfo.cache
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.csproj.CopyComplete
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\ref\senai.sp_med_group.webApi.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.pdb
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.genruntimeconfig.cache
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.xml
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.Admin.Directory.directory_v1.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.Auth.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.Core.dll
+E:\HD\SENAI-2ºT\projetoSP\Projeto_SP_Med.Group\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.xml
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\appsettings.json
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.exe
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.deps.json
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.runtimeconfig.json
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.runtimeconfig.dev.json
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\ref\senai.sp_med_group.webApi.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.pdb
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.xml
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.Admin.Directory.directory_v1.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.Auth.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.Core.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.csproj.AssemblyReference.cache
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.AssemblyInfoInputs.cache
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.AssemblyInfo.cs
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.csproj.CoreCompileInputs.cache
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\staticwebassets\senai.sp_med_group.webApi.StaticWebAssets.Manifest.cache
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\staticwebassets\senai.sp_med_group.webApi.StaticWebAssets.xml
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\scopedcss\bundle\senai.sp_med_group.webApi.styles.css
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.RazorTargetAssemblyInfo.cache
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.csproj.CopyComplete
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\ref\senai.sp_med_group.webApi.dll
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.xml
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.pdb
+C:\Users\52826143832\Downloads\projetosp\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.genruntimeconfig.cache
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\appsettings.json
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.StaticWebAssets.xml
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.exe
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.deps.json
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.runtimeconfig.json
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.runtimeconfig.dev.json
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\ref\senai.sp_med_group.webApi.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.pdb
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.xml
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.Admin.Directory.directory_v1.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.Auth.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.Core.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.csproj.AssemblyReference.cache
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.AssemblyInfoInputs.cache
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.AssemblyInfo.cs
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.csproj.CoreCompileInputs.cache
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\scopedcss\bundle\senai.sp_med_group.webApi.styles.css
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\staticwebassets\senai.sp_med_group.webApi.StaticWebAssets.Manifest.cache
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.RazorTargetAssemblyInfo.cache
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.csproj.CopyComplete
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\ref\senai.sp_med_group.webApi.dll
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.xml
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.pdb
+C:\Users\52826143832\Downloads\Nova pasta\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.genruntimeconfig.cache
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\appsettings.Development.json
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\appsettings.json
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.exe
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.deps.json
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.runtimeconfig.json
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.runtimeconfig.dev.json
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\ref\senai.sp_med_group.webApi.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.pdb
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.xml
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.Admin.Directory.directory_v1.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.Auth.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.Core.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Humanizer.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.csproj.AssemblyReference.cache
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.AssemblyInfoInputs.cache
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.AssemblyInfo.cs
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.csproj.CoreCompileInputs.cache
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.MvcApplicationPartsAssemblyInfo.cs
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.MvcApplicationPartsAssemblyInfo.cache
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\staticwebassets\senai.sp_med_group.webApi.StaticWebAssets.Manifest.cache
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\staticwebassets\senai.sp_med_group.webApi.StaticWebAssets.xml
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\scopedcss\bundle\senai.sp_med_group.webApi.styles.css
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.RazorTargetAssemblyInfo.cache
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.csproj.CopyComplete
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\ref\senai.sp_med_group.webApi.dll
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.xml
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.pdb
+E:\HD\SENAI-2ºT\SpMedGroup-Git\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.genruntimeconfig.cache
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\appsettings.json
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.exe
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.deps.json
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.runtimeconfig.json
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.runtimeconfig.dev.json
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\ref\senai.sp_med_group.webApi.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.pdb
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.xml
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.Admin.Directory.directory_v1.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.Auth.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.Core.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.csproj.AssemblyReference.cache
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.AssemblyInfoInputs.cache
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.AssemblyInfo.cs
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.csproj.CoreCompileInputs.cache
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\staticwebassets\senai.sp_med_group.webApi.StaticWebAssets.Manifest.cache
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\staticwebassets\senai.sp_med_group.webApi.StaticWebAssets.xml
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\scopedcss\bundle\senai.sp_med_group.webApi.styles.css
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.RazorTargetAssemblyInfo.cache
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.csproj.CopyComplete
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\ref\senai.sp_med_group.webApi.dll
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.xml
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.pdb
+C:\Users\46813334840\Documents\Nova pasta\1\Projeto_SP_Med.Group\senai_sprint2_Backend\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.genruntimeconfig.cache
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\appsettings.json
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.exe
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.deps.json
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.runtimeconfig.json
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.runtimeconfig.dev.json
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\ref\senai.sp_med_group.webApi.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.pdb
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.xml
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.Admin.Directory.directory_v1.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.Auth.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.Core.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.csproj.AssemblyReference.cache
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.AssemblyInfoInputs.cache
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.AssemblyInfo.cs
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.csproj.CoreCompileInputs.cache
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\staticwebassets\senai.sp_med_group.webApi.StaticWebAssets.Manifest.cache
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\staticwebassets\senai.sp_med_group.webApi.StaticWebAssets.xml
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\scopedcss\bundle\senai.sp_med_group.webApi.styles.css
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.RazorTargetAssemblyInfo.cache
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.csproj.CopyComplete
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\ref\senai.sp_med_group.webApi.dll
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.xml
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.pdb
+C:\Users\46813334840\Documents\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.genruntimeconfig.cache
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\appsettings.Development.json
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\appsettings.json
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.exe
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.deps.json
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.runtimeconfig.json
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.runtimeconfig.dev.json
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\ref\senai.sp_med_group.webApi.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.pdb
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.xml
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.Admin.Directory.directory_v1.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.Auth.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.Core.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Humanizer.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.csproj.AssemblyReference.cache
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.AssemblyInfoInputs.cache
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.AssemblyInfo.cs
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.csproj.CoreCompileInputs.cache
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.MvcApplicationPartsAssemblyInfo.cs
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.MvcApplicationPartsAssemblyInfo.cache
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\staticwebassets\senai.sp_med_group.webApi.StaticWebAssets.Manifest.cache
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\staticwebassets\senai.sp_med_group.webApi.StaticWebAssets.xml
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\scopedcss\bundle\senai.sp_med_group.webApi.styles.css
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.RazorTargetAssemblyInfo.cache
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.csproj.CopyComplete
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\ref\senai.sp_med_group.webApi.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.xml
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.pdb
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.genruntimeconfig.cache
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\appsettings.json
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.exe
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.deps.json
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.runtimeconfig.json
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.runtimeconfig.dev.json
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\ref\senai.sp_med_group.webApi.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.pdb
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.xml
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.Admin.Directory.directory_v1.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.Auth.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.Core.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.csproj.AssemblyReference.cache
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.AssemblyInfoInputs.cache
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.AssemblyInfo.cs
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.csproj.CoreCompileInputs.cache
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\staticwebassets\senai.sp_med_group.webApi.StaticWebAssets.Manifest.cache
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\staticwebassets\senai.sp_med_group.webApi.StaticWebAssets.xml
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\scopedcss\bundle\senai.sp_med_group.webApi.styles.css
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.RazorTargetAssemblyInfo.cache
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.csproj.CopyComplete
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\ref\senai.sp_med_group.webApi.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.xml
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.pdb
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.genruntimeconfig.cache
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\DnsClient.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\MongoDB.Bson.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\MongoDB.Driver.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\SharpCompress.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\linux\native\libsnappy64.so
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\linux\native\libzstd.so
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\osx\native\libsnappy64.dylib
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\osx\native\libzstd.dylib
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+E:\SENAI\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\DnsClient.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\linux\native\libsnappy64.so
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\linux\native\libzstd.so
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\osx\native\libzstd.dylib
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\46813334840\Documents\Sp\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\appsettings.Development.json
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\appsettings.json
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.exe
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.deps.json
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.runtimeconfig.json
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.runtimeconfig.dev.json
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\ref\senai.sp_med_group.webApi.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.pdb
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.xml
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\DnsClient.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.Admin.Directory.directory_v1.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.Auth.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.Core.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Humanizer.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\MongoDB.Bson.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\MongoDB.Driver.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\SharpCompress.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\linux\native\libsnappy64.so
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\linux\native\libzstd.so
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\osx\native\libsnappy64.dylib
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\osx\native\libzstd.dylib
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.csproj.AssemblyReference.cache
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.AssemblyInfoInputs.cache
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.AssemblyInfo.cs
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.csproj.CoreCompileInputs.cache
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.MvcApplicationPartsAssemblyInfo.cs
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.MvcApplicationPartsAssemblyInfo.cache
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\staticwebassets\senai.sp_med_group.webApi.StaticWebAssets.Manifest.cache
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\staticwebassets\senai.sp_med_group.webApi.StaticWebAssets.xml
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\scopedcss\bundle\senai.sp_med_group.webApi.styles.css
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.RazorTargetAssemblyInfo.cache
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.csproj.CopyComplete
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\ref\senai.sp_med_group.webApi.dll
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.xml
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.pdb
+E:\SENAI\Senai 2021\Projeto SP Med. Group\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.genruntimeconfig.cache
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.xml
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.pdb
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\appsettings.Development.json
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\appsettings.json
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.StaticWebAssets.xml
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.exe
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.deps.json
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.runtimeconfig.json
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.runtimeconfig.dev.json
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.pdb
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\senai.sp_med_group.webApi.xml
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\DnsClient.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.Admin.Directory.directory_v1.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.Auth.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Google.Apis.Core.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Humanizer.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\MongoDB.Bson.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\MongoDB.Driver.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\SharpCompress.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\linux\native\libsnappy64.so
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\linux\native\libzstd.so
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\osx\native\libsnappy64.dylib
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\osx\native\libzstd.dylib
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.csproj.AssemblyReference.cache
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.GeneratedMSBuildEditorConfig.editorconfig
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.AssemblyInfoInputs.cache
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.AssemblyInfo.cs
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.csproj.CoreCompileInputs.cache
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.MvcApplicationPartsAssemblyInfo.cs
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.MvcApplicationPartsAssemblyInfo.cache
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.sourcelink.json
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.RazorTargetAssemblyInfo.cache
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\scopedcss\bundle\senai.sp_med_group.webApi.styles.css
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\staticwebassets\senai.sp_med_group.webApi.StaticWebAssets.Manifest.cache
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\staticwebassets\senai.sp_med_group.webApi.StaticWebAssets.Pack.cache
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\staticwebassets\msbuild.senai.sp_med_group.webApi.Microsoft.AspNetCore.StaticWebAssets.props
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\staticwebassets\msbuild.build.senai.sp_med_group.webApi.props
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.senai.sp_med_group.webApi.props
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.senai.sp_med_group.webApi.props
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp.9FD7E3CC.Up2Date
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\refint\senai.sp_med_group.webApi.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\senai.sp_med_group.webApi.genruntimeconfig.cache
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\obj\Debug\net5.0\ref\senai.sp_med_group.webApi.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.CodeDom.dll
+G:\SENAI 2023\3SM\Projeto-SP-Med.-Group\Back-End\API\senai.sp_med_group.webApi\senai.sp_med_group.webApi\bin\Debug\net5.0\System.Management.dll
